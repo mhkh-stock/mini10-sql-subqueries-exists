@@ -1,0 +1,11 @@
+customer_id | name | above_avg_orders | biggest_order_pkr
+1 | Ayesha Khan | 4 | 18000
+2 | Bilal Ahmed | 2 | 20100
+3 | Fatima Noor | 2 | 19000
+7 | Maryam Iqbal | 2 | 18000
+4 | Usman Tariq | 1 | 20400
+8 | Omar Sheikh | 1 | 19200
+9 | Sana Malik | 1 | 18700
+6 | Hassan Raza | 1 | 14500
+10 | Ali Nawaz | 1 | 11700
+5 | Zainab Ali | 1 | 11000

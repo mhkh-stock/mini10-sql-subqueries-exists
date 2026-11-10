@@ -1,0 +1,3 @@
+customer_id | name | city | ever_ordered | last_order_date
+11 | Hira Shah | Peshawar | 0 | None
+12 | Danish Iqbal | Quetta | 0 | None

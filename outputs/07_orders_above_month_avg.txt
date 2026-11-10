@@ -1,0 +1,15 @@
+order_id | customer | order_date | order_total_pkr | month_avg_pkr
+1 | Ayesha Khan | 2026-01-08 | 11800 | 7420.0
+19 | Omar Sheikh | 2026-01-30 | 7500 | 7420.0
+12 | Zainab Ali | 2026-02-12 | 9600 | 8333.33
+2 | Ayesha Khan | 2026-02-14 | 14900 | 8333.33
+5 | Bilal Ahmed | 2026-03-20 | 14500 | 7625.0
+3 | Ayesha Khan | 2026-04-02 | 18000 | 12420.0
+11 | Usman Tariq | 2026-04-18 | 20400 | 12420.0
+18 | Maryam Iqbal | 2026-04-22 | 14900 | 12420.0
+20 | Omar Sheikh | 2026-05-08 | 19200 | 14580.0
+6 | Bilal Ahmed | 2026-05-11 | 20100 | 14580.0
+9 | Fatima Noor | 2026-06-05 | 19000 | 13457.14
+16 | Hassan Raza | 2026-06-12 | 14500 | 13457.14
+22 | Sana Malik | 2026-06-20 | 18700 | 13457.14
+29 | Maryam Iqbal | 2026-06-28 | 18000 | 13457.14

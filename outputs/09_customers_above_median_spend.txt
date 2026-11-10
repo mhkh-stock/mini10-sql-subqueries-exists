@@ -1,0 +1,6 @@
+customer_id | name | total_spent_pkr | median_spend_pkr
+1 | Ayesha Khan | 56700 | 34450.0
+2 | Bilal Ahmed | 46600 | 34450.0
+3 | Fatima Noor | 44100 | 34450.0
+7 | Maryam Iqbal | 37400 | 34450.0
+4 | Usman Tariq | 34800 | 34450.0

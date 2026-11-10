@@ -1,0 +1,6 @@
+customer_id | name | categories_bought
+1 | Ayesha Khan | 4
+4 | Usman Tariq | 4
+6 | Hassan Raza | 4
+8 | Omar Sheikh | 4
+9 | Sana Malik | 4

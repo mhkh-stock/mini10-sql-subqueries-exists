@@ -1,0 +1,2 @@
+product_id | name | category | unit_price
+9 | Bluetooth Speaker | Electronics | 6500

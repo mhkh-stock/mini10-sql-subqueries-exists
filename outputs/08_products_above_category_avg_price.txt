@@ -1,0 +1,5 @@
+product_id | name | category | list_price_pkr | category_avg_price_pkr
+2 | Mechanical Keyboard | Electronics | 8500 | 5500.0
+9 | Bluetooth Speaker | Electronics | 6500 | 5500.0
+4 | Office Chair | Furniture | 18000 | 11100.0
+8 | Dinner Set 24pc | Kitchen | 14500 | 8850.0
