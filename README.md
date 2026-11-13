@@ -1,6 +1,6 @@
 # Mini #10 — SQL Subqueries & EXISTS Pack
 
-**Status:** built and verified locally; GitHub publish pending.
+**Status:** built, verified, and published on GitHub.
 
 **SAMPLE / DEMO data only.** Fictional shop, fictional people, fictional orders.
 Never claimed as real client or real business data.
@@ -95,6 +95,6 @@ SQLite 3.45.1.
 
 ## Published
 
-Not yet published on GitHub — local build only. The built
+Published on GitHub: https://github.com/mhkh-stock/mini10-sql-subqueries-exists. The built
 `data/demo.db` is intentionally not uploaded — rebuild it any time
 with `python3 run_queries.py`.
